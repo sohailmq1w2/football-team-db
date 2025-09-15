@@ -1,0 +1,63 @@
+[
+  {
+    "player_id": 1,
+    "name": "John Doe",
+    "position": "Quarterback",
+    "age": 28,
+    "team": "New York Knights",
+    "stats": {
+      "games_played": 16,
+      "touchdowns": 30,
+      "yards": 4500
+    }
+  },
+  {
+    "player_id": 2,
+    "name": "Mike Johnson",
+    "position": "Running Back",
+    "age": 25,
+    "team": "New York Knights",
+    "stats": {
+      "games_played": 15,
+      "touchdowns": 10,
+      "yards": 1200
+    }
+  },
+  {
+    "player_id": 3,
+    "name": "Chris Lee",
+    "position": "Wide Receiver",
+    "age": 26,
+    "team": "New York Knights",
+    "stats": {
+      "games_played": 16,
+      "touchdowns": 12,
+      "yards": 1100
+    }
+  },
+  {
+    "player_id": 4,
+    "name": "James Smith",
+    "position": "Linebacker",
+    "age": 30,
+    "team": "New York Knights",
+    "stats": {
+      "games_played": 16,
+      "touchdowns": 0,
+      "yards": 0
+    }
+  },
+  {
+    "player_id": 5,
+    "name": "Aaron Brown",
+    "position": "Kicker",
+    "age": 27,
+    "team": "New York Knights",
+    "stats": {
+      "games_played": 16,
+      "touchdowns": 0,
+      "yards": 0
+    }
+  }
+]
+
